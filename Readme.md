@@ -80,7 +80,7 @@ Req Body (type/json) :
 5. Delete Ticket
 ```
 Req Type: Delete
-Endpoint: /api/v1/ticket/:ticketId
+Endpoint: /api/v1/ticket/:ticketID
 ```
 
 Above is Complete Analog Powertech Engineering Task with Documentation
